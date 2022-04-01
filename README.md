@@ -14,7 +14,7 @@ also includes definitively non-useful scripts.
  - Add a page number to the beginning of a cue name. Works only on Group cues.
 
 ### The Palmer Hefferan indent special  
- - Indents a series of fades to match with [Palmer's](https://www.palmerhefferan.com/) visual style of programming a series of fades that all target the same audio file.  
+ - Indents a series of Fade cues to match with [Palmer's](https://www.palmerhefferan.com/) visual style of programming a series of fades that all target the same audio file.  
 
 ## Novelties  
 
