@@ -2,9 +2,9 @@
 potentially useful QLab scripts  
 also includes definitively non-useful scripts.
 
----
+ ---
  not affliated with [Figure53](https://figure53.com/)
----   
+ --- 
 
 ## Batch Cue Edits
 
