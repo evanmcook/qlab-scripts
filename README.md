@@ -13,6 +13,9 @@ also includes definitively non-useful scripts.
 ### Append Page Number  
  - Add a page number to the beginning of a cue name. Works only on Group cues.
 
+ ### Color Picker  
+ - Change the color of the selected cues to a color of your choice. [Alec Sparks](https://alecsparks.com/) made this one possible by discovering the hidden colors in 2018.
+
 ### The Palmer Hefferan Indent
  - Indents a series of Fade cues to match with [Palmer's](https://www.palmerhefferan.com/) visual style of programming a series of fades that all target the same audio file.  
 
