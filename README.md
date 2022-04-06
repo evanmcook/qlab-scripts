@@ -6,7 +6,7 @@ also includes definitively non-useful scripts.
    
  not affliated with [Figure53](https://figure53.com/)
  
- get started with the most basic scripts by downloading [Sam's Toolbox](https://qlab.app/tutorials/sams-toolbox/)
+ get started with the most essential QLab scripts by downloading [Sam's Toolbox](https://qlab.app/tutorials/sams-toolbox/)
    
  --- 
 
