@@ -15,10 +15,10 @@ also includes definitively non-useful scripts.
 ### Append Page Number  
  - Add a page number to the beginning of a cue name. Works only on Group cues.
 
- ### Color Picker  
+### Color Picker  
  - Change the color of the selected cues to a color of your choice. [Alec Sparks](https://alecsparks.com/) made this one possible by discovering the hidden colors in 2018.
 
- ## Color Toggler
+### Color Toggler
  - If the selected cues are of a specified color, remove that color. Cues with no color or with another color become the specified color.
 
 ### The Palmer Hefferan Indent
