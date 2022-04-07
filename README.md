@@ -16,6 +16,9 @@ also includes definitively non-useful scripts.
  ### Color Picker  
  - Change the color of the selected cues to a color of your choice. [Alec Sparks](https://alecsparks.com/) made this one possible by discovering the hidden colors in 2018.
 
+ ## Color Toggler
+ - If the selected cues are of a specified color, remove that color. Cues with no color or with another color become the specified color.
+
 ### The Palmer Hefferan Indent
  - Indents a series of Fade cues to match with [Palmer's](https://www.palmerhefferan.com/) visual style of programming a series of fades that all target the same audio file.  
 
