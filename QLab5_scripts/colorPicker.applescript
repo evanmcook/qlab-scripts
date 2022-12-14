@@ -1,4 +1,4 @@
---colors discovered by alec sparks, read how it happened at alecsparks.com/blog
+--certain other colors in QLab 4 discovered by alec sparks, this is the next part of the tradition.
 --many thanks to Figure 53 for an excellent applescript dictionary. <3
 
 --github.com/evanmcook/qlab-scripts
