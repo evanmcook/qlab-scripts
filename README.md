@@ -9,6 +9,15 @@ also includes definitively non-useful scripts.
  get started with the most essential QLab scripts by downloading [Sam's Toolbox](https://qlab.app/tutorials/sams-toolbox/)
    
  --- 
+ 
+#QLab 5  
+
+### Move and resize window
+
+### Color picker
+ - Easily access all the colors that QLab 5 has to offer.
+
+#QLab 4  
 
 ## Batch Cue Edits
 
