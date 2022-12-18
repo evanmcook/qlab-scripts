@@ -10,14 +10,15 @@ also includes definitively non-useful scripts.
    
  --- 
  
-#QLab 5  
+# QLab 5  
 
-### Move and resize window
+### Move and resize workspace window
+  - Retrieve your workspace if it becomes lost on an external monitor like a projector, and/or if you want to return to a specific workspace size.
 
 ### Color picker
  - Easily access all the colors that QLab 5 has to offer.
 
-#QLab 4  
+# QLab 4  
 
 ## Batch Cue Edits
 
