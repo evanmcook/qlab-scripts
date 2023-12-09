@@ -4,7 +4,7 @@
 --github.com/evanmcook/qlab-scripts
 --https://evancook.audio
 --edited 2023 12 09
---verified on 2022 12 13, QLab5 v 5.0.11
+--verified on 2023 12 09, QLab5 v 5.3.2
 
 
 tell application id "com.figure53.QLab.5" to tell front workspace
